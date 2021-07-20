@@ -15,7 +15,7 @@ const sysConfig = {
 const databaseConfig = {
   host: "localhost",
   user: "root",
-  password: "root",
+  password: "Zbw574601!!!",
   name: "dormitory",
   rebuild: false, // 是否每次重启服务器时重建数据库
   logging: false // 是否再控制台输出建表语句
